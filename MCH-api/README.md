@@ -1,6 +1,10 @@
 # MCH API 0.1
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Overview
+
+MCH API has been developed as part of the OpenCDMS project. The code can be used as a stand-alone solution with an installation of MCH. The code will help inform the development of `opencdms-server`.
 
 ## Usage
 
