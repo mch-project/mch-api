@@ -11,7 +11,7 @@ setup(
         "Flask-RESTful==0.3.8",
         "Jinja2==2.11.2",
         "flask-mysqldb==0.2.0",
-        "pandas==1.2.2",
+        "pandas>=1.2.2",
         "markdown==2.6.11"
     ]
 )
