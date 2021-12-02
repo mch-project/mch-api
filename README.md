@@ -6,6 +6,23 @@
 
 MCH API has been developed as part of the OpenCDMS project. The code can be used as a stand-alone solution with an installation of MCH. The code will help inform the development of `opencdms-server`.
 
+## Getting Started
+
+- Clone this repository
+- Go to the cloned repo
+- `virtualenv venv`
+- `source venv/bin/activate`
+- `pip install -r requirements.txt`
+- `export FLASK_APP=mch_api.api_mch`
+- `export MCH_DB_PORT=<PUT CORRECT VALUE>`
+- `export MCH_DB_HOST=<PUT CORRECT VALUE>`
+- `export MCH_DB_NAME=<PUT CORRECT VALUE>`
+- `export MCH_DB_PASSWORD=<PUT CORRECT VALUE>`
+- `export MCH_DB_USER=<PUT CORRECT VALUE>`
+- `flask run`
+
+Then go to http://127.0.0.1:5000/
+
 ## Usage
 
 All responses will have the form
